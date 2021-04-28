@@ -1,0 +1,8 @@
+E=TE'
+E'=#
+E'=+TE'
+T=FT'
+T'=#
+T'=*FT'Q
+F=i
+F=(E)
